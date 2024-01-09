@@ -1,0 +1,8 @@
+bcrypt==4.1.2
+customtkinter==5.2.1
+darkdetect==0.8.0
+greenlet==3.0.3
+packaging==23.2
+psycopg2==2.9.9
+SQLAlchemy==2.0.25
+typing_extensions==4.9.0
